@@ -1,4 +1,4 @@
-class Doppler < Formula
+class Cloudenv < Formula
   desc "The official CloudEnv CLI for keeping your secrets a secret"
   homepage "https://cloudenv.com"
   version "0.1.0"
